@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Rock Doctor</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="title_activity_doc_report">Doctor\'s Report</string>
+<string name="attribution">
+Modifications to:\n
+Page URL: https://www.flickr.com/photos/115089924@N02/16068674648\n
+File URL: https://c1.staticflickr.com/9/8585/16068674648_383d653ccb_b.jpg\n
+Attribution: Original work by Ilmicrofono Oggiono [CC-BY-2.0 (http://creativecommons.org/licenses/by/2.0)]\n\n
+
+Page URL: https://freesound.org/people/GameAudio/sounds/220184/\n
+File URL: https://freesound.org/people/GameAudio/sounds/220184/download/220184__gameaudio__win-spacey.wav\n
+Attribution: By GameAudio [CC0 1.0 (http://creativecommons.org/publicdomain/zero/1.0)]\n\n
+
+Page URL: https://freesound.org/people/pyzaist/sounds/118649/\n
+File URL: https://freesound.org/people/pyzaist/sounds/118649/download/118649__pyzaist__bump.wav\n
+Attribution: By pyzaist [CC0 1.0 (http://creativecommons.org/publicdomain/zero/1.0)]\n\n
+
+Page URL: https://freesound.org/people/erkanozan/sounds/51752/\n
+File URL: https://freesound.org/people/erkanozan/sounds/51752/download/51752__erkanozan__warning.wav\n
+Attribution: By erkanozan [CC0 1.0 (http://creativecommons.org/publicdomain/zero/1.0)]\n\n
+
+Page URL: https://freesound.org/people/cdrk/sounds/264594/\n
+File URL: https://freesound.org/people/cdrk/sounds/264594/download/264594__cdrk__reception-bell.flac\n
+Attribution: By cdrk [CC-BY-3.0 (http://creativecommons.org/licenses/by/3.0)]\n\n
+
+Modifications to:\n
+Page URL: https://commons.wikimedia.org/wiki/File%3ARock-paper-scissors.svg\n
+File URL: https://upload.wikimedia.org/wikipedia/commons/6/67/Rock-paper-scissors.svg\n
+Attribution: Original work by Enzoklop [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons\n\n
+
+Page URL: https://freesound.org/people/stijn/sounds/43686/\n
+File URL: https://freesound.org/people/stijn/sounds/43686/download/43686__stijn__click8.wav\n
+Attribution: stijn [CC0 1.0 (http://creativecommons.org/publicdomain/zero/1.0)]\n\n
+
+Page URL: https://freesound.org/people/oceanictrancer/sounds/233539/\n
+File URL: https://freesound.org/people/oceanictrancer/sounds/233539/download/233539__oceanictrancer__click.wav\n
+Attribution: oceanictrancer [CC0 1.0 (http://creativecommons.org/publicdomain/zero/1.0)]\n\n
+
+Page URL: https://freesound.org/people/Headphaze/sounds/277032/\n
+File URL: https://freesound.org/people/Headphaze/sounds/277032/download/277032__headphaze__ui-completed-status-alert-notification-sfx002.wav\n
+Attribution: Headphaze [CC-BY-3.0 (http://creativecommons.org/licenses/by/3.0)]\n\n
+
+Page URL: https://commons.wikimedia.org/wiki/Category:Google_Web_Fundamentals_icons\n
+File URL: https://commons.wikimedia.org/wiki/File:Question,_Web_Fundamentals.svg\n
+File URL: https://commons.wikimedia.org/wiki/File:Exclamation,_Web_Fundamentals.svg\n
+File URL: https://commons.wikimedia.org/wiki/File:Minus,_Web_Fundamentals.svg\n
+File URL: https://commons.wikimedia.org/wiki/File:Diamond,_Web_Fundamentals.svg\n
+File URL: https://commons.wikimedia.org/wiki/File:Plus,_Web_Fundamentals.svg\n
+File URL: https://commons.wikimedia.org/wiki/File:Tick,_Web_Fundamentals.svg\n
+Attribution: Google Web Fundamentals [Apache (https://github.com/google/WebFundamentals/blob/master/LICENSE)]
+</string>
+</resources>

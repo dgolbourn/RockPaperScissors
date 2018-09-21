@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.marigoldgames.rockpaperscissors.MainActivity">
+    <item
+        android:id="@+id/menu_doc"
+        android:orderInCategory="1"
+        android:title="Doc"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_stats"
+        android:orderInCategory="2"
+        android:title="Stats"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_new_session"
+        android:orderInCategory="3"
+        android:title="New Session"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_clear_data"
+        android:orderInCategory="4"
+        android:title="Clear Data"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_disable_hints"
+        android:orderInCategory="5"
+        android:title="Disable Hints"
+        android:visible="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_enable_hints"
+        android:orderInCategory="5"
+        android:title="Enable Hints"
+        android:visible="false"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_about"
+        android:orderInCategory="6"
+        android:title="About"
+        app:showAsAction="never" />
+</menu>

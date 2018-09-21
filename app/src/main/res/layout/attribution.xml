@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dip">
+
+    <TextView
+        android:id="@+id/credits"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:paddingTop="20dip"
+        android:text="App and algorithms by Marigold Games\nwww.marigoldgames.com\n\nThe following resources were used under the indicated licenses:"
+        android:textColor="?android:attr/textColorSecondary"
+        android:textSize="16sp" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/attribution"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:paddingTop="20dip"
+            android:text="@string/attribution"
+            android:textColor="?android:attr/textColorPrimary"
+            android:textSize="12sp" />
+    </ScrollView>
+
+</LinearLayout>

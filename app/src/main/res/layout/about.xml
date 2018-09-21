@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dip">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A Rock Paper Scissors training app"
+        android:textColor="?android:attr/textColorSecondary"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/about_credits"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:paddingTop="20dip"
+        android:text="By Marigold Games\nwww.marigoldgames.com"
+        android:textColor="?android:attr/textColorPrimary"
+        android:textSize="16sp" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dip"
+            android:text="Rock Doctor aims to improve your Rock Paper Scissors skills by trying to guess your moves.\n\nYou may think you are acting randomly but almost surely aren't. You can use Rock Doctor to find your most common mistakes.\n\nRock Doctor remembers your actions using several internal models. It uses these models to predict your behaviour.\n\nThese models include a bank of two-stage branch predictors, a meta-model, a purely random model, and a frequency analysis model.\n\nTo adapt to changes to your strategy in real time, Rock Doctor uses a Bayesian model selection process.\n\nIn this way, Rock Doctor aims to always give you a challenging opponent who NEVER gives up."
+            android:textColor="?android:attr/textColorTertiary"
+            android:textSize="10sp" />
+    </ScrollView>
+
+</LinearLayout>
